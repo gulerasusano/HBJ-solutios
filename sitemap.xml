@@ -1,9 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://gulerasusano.github.io/HBJ-solutions/</loc>
-      <lastmod>2025-12-12</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- URL principal -->
+    <url>
+        <loc>https://gulerasusano.github.io/HBJ-solutions/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gulerasusano.github.io/HBJ-solutions/" />
+    </url>
+    
+    <!-- Página inicial (seção início) -->
+    <url>
+        <loc>https://gulerasusano.github.io/HBJ-solutions/#inicio</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gulerasusano.github.io/HBJ-solutions/#inicio" />
+    </url>
+    
+    <!-- Seção de serviços -->
+    <url>
+        <loc>https://gulerasusano.github.io/HBJ-solutions/#servicos</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gulerasusano.github.io/HBJ-solutions/#servicos" />
+    </url>
+    
+    <!-- Seção de portfólio -->
+    <url>
+        <loc>https://gulerasusano.github.io/HBJ-solutions/#portfolio</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gulerasusano.github.io/HBJ-solutions/#portfolio" />
+    </url>
+    
+    <!-- Seção de depoimentos -->
+    <url>
+        <loc>https://gulerasusano.github.io/HBJ-solutions/#depoimentos</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gulerasusano.github.io/HBJ-solutions/#depoimentos" />
+    </url>
+    
+    <!-- Seção de contactos -->
+    <url>
+        <loc>https://gulerasusano.github.io/HBJ-solutions/#contactos</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://gulerasusano.github.io/HBJ-solutions/#contactos" />
+    </url>
+
+</urlset>
+
 </urlset>
